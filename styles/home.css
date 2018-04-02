@@ -1,0 +1,252 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+body{
+	background-color: #484848;
+	margin:0;
+	padding:0; 
+	width: 100%;
+}
+
+#logo{
+	display: block;
+	margin:auto;
+	width: 200px;
+	height: 200px;
+}
+
+.Bar{
+	position: relative;
+	text-align: center;
+	padding: 2px 60px 0px; 
+	font-family: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	color:floralwhite;
+	/*color: #E73A3D; */ 
+	text-decoration: none;
+	border-bottom: 4px solid white;
+	
+}
+
+#Maintitle{
+	font-size: 500%;
+}
+	
+#slogan{
+	text-align: center;
+	color: floralwhite;
+	
+	
+}	
+
+#message{
+	display: block;
+	margin:auto;
+	border: 2px solid white;
+}
+
+.Links{
+	margin:auto;
+}
+
+
+hr{
+	width: 95%;
+}
+
+header {
+	background-image: url(stockphoto.png);
+}
+
+#Information{
+	color: floralwhite;
+	padding-left: 18px;
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+}
+
+div > h1{
+	text-align: center;
+	color: floralwhite;
+	
+}
+div > h3{
+	text-align: center;
+	color: floralwhite;
+}
+div > p{
+	text-align:center;
+}
+div > h2{
+	text-align:center;
+}
+
+
+
+
+
+/*Langis Comment*/
+
+p.sub {
+	padding: 5px 10px 5px 10px;
+	color: white;
+	font-family: Consolas, Andale Mono, Lucida Console, Lucida Sans Typewriter, Monaco, Courier New, monospace;
+	font-size: 25px;
+}
+
+#img2{
+	position:relative;
+	width: 200px;
+	height: 350px;
+	padding-right: 10px; 
+}
+
+#img3{
+	position:relative;
+	width: 200px;
+	height: 350px;
+	padding-left: 10px;
+}
+
+#img6{
+	position:relative;
+	width: 200px;
+	height: 350px;
+	padding-left: 10px;
+}
+
+#img7{
+	position:relative;
+	width: 200px;
+	height: 350px;
+	padding-right: 10px;
+}
+
+#div1{
+	margin-top: 20px;
+}
+
+#div2{
+	margin-top: 50px;
+}
+
+#div3{
+	margin-top: 50px;
+}
+
+#div4{
+	margin-top: 50px;
+		/*code will be placed in here shortly*/
+}
+
+.img12{
+	width: 50px;
+	height: 50px;
+	display:block;
+	margin: auto;
+	padding: 5px 1px;
+}
+
+.img14{
+	width: 100px;
+	height: 100px;
+	display:block;
+	margin: auto;
+	
+}
+
+
+
+
+/* Footer Design */
+
+
+
+#foot{
+	background-color:black;
+}
+
+.Section{
+	height:50px;
+	padding-top:;
+	padding: 5px;
+	text-align: center;
+}
+
+.Section2{
+	height:35px;
+	padding-top: 5px;
+	text-align: center;
+}
+
+.Section3{
+	height:35px;
+	padding: 5px;
+	text-align: center;
+}
+
+.icon{
+	font-size: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color:#6699CC;
+}
+
+.FooterLinks{
+	text-decoration: none;
+	color: white;
+}
+
+.tabled2{
+	width: 60%;
+	padding-top: 20px;
+	padding-left: 80px;
+}
+
+.tabled2a{
+	width: 40%;
+	padding-top: 20px;
+	padding-right: 80px;
+}
+
+.imageControl{
+	width: 50%;
+	/*height: 300px;*/
+	display: block;
+	margin: 0 auto;
+	padding: 10px;	
+}
+
+button{
+	width: 300px;
+	background-color: #BC1331;
+	color: white; 
+	border-radius: 5px;
+	padding: 5px;
+	font-size: 110%;
+}
+
+.lighttext{
+	color: white;
+}
+
+.PageTitle{
+	text-align: center;
+	padding: 20px;
+}
+
+#welcomeTxt{
+	margin: 0;
+	font-family: 'Indie Flower', cursive;
+	text-shadow: 1px 1px 1px black;
+	color: grey;
+	font-size: 500%;
+}
+
+#welcomeTxt2{
+	margin: 0;
+	font-family: 'Indie Flower', cursive;
+	text-shadow: 1px 1px 1px black;
+	color: white;
+	font-size: 500%;
+}
