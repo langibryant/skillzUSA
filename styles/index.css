@@ -1,0 +1,151 @@
+/*Index.css*/
+
+/*Styling that applies only to the homepage*/
+
+#bgFullParalax{
+	background-image: url("../images/stockphoto.png");
+	background-attachment: fixed;
+	background-size: cover;
+	height: 460px;
+	width: 100%; 
+}
+
+.blackBack{
+	background-color: rgba(0,0,0,0.4);
+	height: 100%;
+}
+
+#bigTitle{
+	
+	font-size: 500%;
+	margin:0;
+}
+
+#subtitle{
+	margin-top: -15px;
+	margin-left: 10px;
+	font-size: 200%;
+}
+
+.forwardTxt{
+	width: 90%;
+	transform: translate(10%, 60%);
+	color: white;
+	font-family: 'Indie Flower', cursive;
+}
+
+#logo{
+	margin-top: -10px;
+	width: 200px;
+	height: 200px;
+	float: right;
+}
+
+.tabled1{
+	padding: 0 0px;
+}
+
+.tabled2{
+	width: 60%;
+	padding-top: 20px;
+	padding-left: 80px;
+}
+
+.tabled2a{
+	width: 40%;
+	padding-top: 20px;
+	padding-right: 80px;
+}
+
+
+#welcomeTxt{
+	margin: 0;
+	font-family: 'Indie Flower', cursive;
+	text-shadow: 1px 1px 1px black;
+	color: grey;
+	font-size: 600%;
+}
+
+#welcomeSub{
+	margin-top: -20px;
+	font-size: 150%;
+	color: grey;
+}
+
+.imageControl{
+	width: 50%;
+	/*height: 300px;*/
+	display: block;
+	margin: 0 auto;
+}
+
+button{
+	width: 300px;
+	background-color: #BC1331;
+	color: white; 
+	border-radius: 5px;
+	padding: 5px;
+	font-size: 110%;
+}
+
+#initial{
+	box-shadow: 2px 2px 2px transparent;
+	transition: 1s;
+}
+
+#initial:hover{
+	box-shadow: 2px 2px 2px #BC1331;
+}
+
+#secondSection{
+	background-color: #383C48;
+}
+
+.tabled3{
+	width: calc(100% / 3);
+}
+
+.testimonialName{
+	color: white;
+	text-align: center;
+}
+
+.testimonialPicture{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	display: block;
+	margin: 0 auto;
+	border: 2px solid white;
+}
+
+.container{
+	width: 100%;
+}
+
+table{
+	width: 100%;
+}
+
+#sectionTitle{
+	color: white;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+	font-size: 400%;
+	padding-top: 30px;
+	margin-top: 0
+}
+
+.title{
+	color: white;
+	text-align: center;
+}
+
+blockquote{
+	color: white;
+	font-style: italic;
+}
+
+.tbpadding{
+	padding-bottom: 20px;
+}
