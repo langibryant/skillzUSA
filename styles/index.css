@@ -2,49 +2,6 @@
 
 /*Styling that applies only to the homepage*/
 
-#bgFullParalax{
-	background-image: url("../images/stockphoto.png");
-	background-attachment: fixed;
-	background-size: cover;
-	height: 460px;
-	width: 100%; 
-}
-
-.blackBack{
-	background-color: rgba(0,0,0,0.4);
-	height: 100%;
-}
-
-#bigTitle{
-	
-	font-size: 500%;
-	margin:0;
-}
-
-#subtitle{
-	margin-top: -15px;
-	margin-left: 10px;
-	font-size: 200%;
-}
-
-.forwardTxt{
-	width: 90%;
-	transform: translate(10%, 60%);
-	color: white;
-	font-family: 'Indie Flower', cursive;
-}
-
-#logo{
-	margin-top: -10px;
-	width: 200px;
-	height: 200px;
-	float: right;
-}
-
-.tabled1{
-	padding: 0 0px;
-}
-
 .tabled2{
 	width: 60%;
 	padding-top: 20px;
