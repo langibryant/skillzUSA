@@ -158,44 +158,6 @@ p.sub {
 
 
 
-/* Footer Design */
-
-
-
-#foot{
-	background-color:black;
-}
-
-.Section{
-	height:50px;
-	padding-top:;
-	padding: 5px;
-	text-align: center;
-}
-
-.Section2{
-	height:35px;
-	padding-top: 5px;
-	text-align: center;
-}
-
-.Section3{
-	height:35px;
-	padding: 5px;
-	text-align: center;
-}
-
-.icon{
-	font-size: 50px;
-	padding-left: 10px;
-	padding-right: 10px;
-	color:#6699CC;
-}
-
-.FooterLinks{
-	text-decoration: none;
-	color: white;
-}
 
 .tabled2{
 	width: 60%;
